@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Annotations/Edit method contract" />
+    <ignoreAction name="Kotlin/Remove braces" />
   </component>
 </application>
